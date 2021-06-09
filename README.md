@@ -17,4 +17,17 @@ git commit -m "a message"
 
 ## Push to online!
 git push
+
 git push origin [branch-name]
+
+## Pull cached branches from online
+git fetch
+## Switch to other branch
+git checkout [branch-name]
+## Create a new branch
+git checkout -b [branch-name]
+
+## List out branches
+git branch
+## Delete branch locally
+git branch -D [branch-name]
