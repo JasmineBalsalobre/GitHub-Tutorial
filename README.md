@@ -12,3 +12,9 @@ git add file.txt
 ### Add specific file-code changes
 git add -p
 
+## Commit your changes
+git commit -m "a message"
+
+## Push to online!
+git push
+git push origin [branch-name]
